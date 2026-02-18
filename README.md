@@ -20,7 +20,7 @@ which provides a foundation for analyzing data using Excel. It includes detailed
 ## Dashboard Build:
 📉 Charts
 📊 Data Science Job Salaries - Bar Chart
-<a href"https://github.com/kishan-Gautam/Excel-Project--Data-Analytics-with-KPIs-and-Pivot-Chart-/blob/main/dashboard%20pic.png">view Picture </a>
+<a href"https://github.com/kishan-Gautam/Excel-Project--Data-Analytics-with-KPIs-and-Pivot-Chart-/blob/main/dashboard%20pic.png"> view Picture </a>
 
 ## 1.Salary Dashboard Chart - Bar Chart:
 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
