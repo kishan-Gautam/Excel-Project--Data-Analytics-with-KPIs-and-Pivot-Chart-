@@ -22,8 +22,6 @@ which provides a foundation for analyzing data using Excel. It includes detailed
 📊 Data Science Job Salaries - Bar Chart
 <img width="1309" height="425" alt="dashboard pic" src="https://github.com/user-attachments/assets/40f05386-4dbe-407f-915f-19cb60823399" />
 
-<img width="1246" height="350" alt="Pivot Chart" src="https://github.com/user-attachments/assets/2b406cd3-5c4f-450d-9774-9ddfad91bf88" />
-
 
 ## 1.Salary Dashboard Chart - Bar Chart:
 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -55,6 +53,7 @@ IF(
 📊 Array Formula: Utilizes MEDIAN() function with nested IF() statement to analyze an array.
 🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
+<img width="1246" height="350" alt="Pivot Chart" src="https://github.com/user-attachments/assets/2b406cd3-5c4f-450d-9774-9ddfad91bf88" />
 
 ## Conclusion:
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course,
