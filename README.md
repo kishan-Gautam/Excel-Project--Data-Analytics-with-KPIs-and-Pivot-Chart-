@@ -3,9 +3,6 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
-## Dashboard File
-My final dashboard is in 1_Salary_Dashboard.xlsx.
-
 ## Excel Skills Used
 The following Excel skills were utilized for analysis:
 📉 Charts
@@ -23,6 +20,7 @@ which provides a foundation for analyzing data using Excel. It includes detailed
 ## Dashboard Build:
 📉 Charts
 📊 Data Science Job Salaries - Bar Chart
+<a href"https://github.com/kishan-Gautam/Excel-Project--Data-Analytics-with-KPIs-and-Pivot-Chart-/blob/main/dashboard%20pic.png">view Picture </a>
 
 ## 1.Salary Dashboard Chart - Bar Chart:
 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
